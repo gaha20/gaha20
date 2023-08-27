@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gaha20's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaha20)](https://github.com/gaha20/github-readme-stats)
+
 <!--
 **gaha20/gaha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
