@@ -2,7 +2,7 @@
 
 ![Gaha20's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaha20&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaha20)](https://github.com/gaha20/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaha20&langs_count=8_icons=true&theme=cobalt)
 
 <!--
 **gaha20/gaha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
